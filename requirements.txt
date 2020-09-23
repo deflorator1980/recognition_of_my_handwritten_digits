@@ -1,7 +1,6 @@
-tensorflow==2.2.0rc4
+tensorflow
 matplotlib
 numpy
 pillow
 keras
-opencv-python==4.2.0.34
-
+opencv-python
